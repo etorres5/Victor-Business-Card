@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.0//EN
+N:Perez;Victor;;;
+FN:Victor Perez
+ORG:IAA Inc.;
+EMAIL;type=INTERNET;type=HOME;type=pref:victor.perez@iaai.com
+TEL;type=pref:+12244774636
+X-SOCIALPROFILE;type=linkedin:www.linkedin.com/in/victor-perez-930802243/
+END:VCARD
