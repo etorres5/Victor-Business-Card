@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 16.0//EN
+N:Rasmussen;Natalie;;;
+FN:Natalie Rasmussen
+ORG:IAA Inc.;
+EMAIL;type=INTERNET;type=HOME;type=pref:natalie.warner@iaai.com
+TEL;type=pref:+12698064150
+X-SOCIALPROFILE;type=linkedin:https://www.linkedin.com/in/natalie-rasmussen-5979a29a/
+END:VCARD
